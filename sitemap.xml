@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://iminathi201.github.io/Artistshub/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://iminathi201.github.io/Artistshub/</loc>
+</url>
+<url>
+<loc>https://iminathi201.github.io/Artistshub/most-played.html</loc>
+<lastmod>2024-09-06T10:27:32+02:00</lastmod>
+<image:image>
+<image:loc>https://iminathi201.github.io/Artistshub/media/posts/2/gallery/daniel-caesar-freudian.avif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://iminathi201.github.io/Artistshub/media/posts/2/gallery/Daniel20Never20Enough-thumbnail.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://iminathi201.github.io/Artistshub/media/posts/2/gallery/500x500-000000-80-0-0-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
